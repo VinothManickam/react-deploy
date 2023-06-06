@@ -1,3 +1,9 @@
-# react-deploy
+## react-deploy
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-4oj21p)
+# Netlify
+
+This document records best practices for deploying static sites to
+[Netlify](https://netlify.com), DataMade's preferred static hosting provider.
+
+## URL Settings
+https://vinothdemo.netlify.app/

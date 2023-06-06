@@ -1,5 +1,13 @@
-h1,
-p {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+.fullBackground {
+  background-color: #ff0000; /* Replace with your desired color code */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.fullBackground h1,
+.fullBackground p {
+  color: #ffffff; /* Optionally, set text color for better visibility */
 }

@@ -1,11 +1,11 @@
 import React from "react";
-import "./style.css";
+import "./style.css"; // Import your CSS file
 
 export default function App() {
   return (
-    <div>
+    <div className="fullBackground">
       <h1>Welcome</h1>
-      <p>This is demo for deploying react application </p>
+      <p>This is a demo for deploying a React application.</p>
     </div>
   );
 }
